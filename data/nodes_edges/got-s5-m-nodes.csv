@@ -1,4 +1,4 @@
-CHARACTERS ID,Baratheon,Greyjoy ,Lannister ,Stark ,Freefolk,Targaryen,Other,King ,Death,War 
+CHARACTERS ID,Baratheon,Greyjoy ,Lannister ,Stark ,Freefolk,Targaryen,Other,King,Death,War
 ARYA,0,0,0,1,0,0,0,0,0,0
 BRAN,0,0,0,1,0,0,0,0,0,0
 BRIENNE,0,0,0,0,0,0,1,0,0,1
@@ -15,7 +15,7 @@ GREY_WORM,0,0,0,0,1,0,0,0,0,1
 JAIME,0,0,1,0,0,0,0,0,0,0
 JEOR,0,0,0,0,0,0,1,0,1,0
 JOFFREY,1,0,0,0,0,0,0,1,1,0
-JON,0,0,0,0,0,1,0,1,0,-1
+JON,0,0,0,0,0,1,0,1,0,1
 JORAH,0,0,0,0,0,0,1,0,0,1
 MARGAERY,0,0,0,0,0,0,1,0,0,0
 MARTYN,0,0,1,0,0,0,0,0,1,0
@@ -31,10 +31,10 @@ SAMWELL,0,0,0,0,0,0,1,0,0,0
 SANDOR,0,0,0,0,0,0,1,0,0,0
 SANSA,0,0,0,1,0,0,0,0,0,0
 SHAE,0,0,0,0,0,0,1,0,1,0
-STANNIS,1,0,0,0,0,0,0,1,1,-1
+STANNIS,1,0,0,0,0,0,0,1,1,1
 THEON,0,1,0,0,0,0,0,0,0,0
 TOMMEN,1,0,0,0,0,0,0,1,0,0
-TORMUND,0,0,0,0,1,0,0,0,0,-1
+TORMUND,0,0,0,0,1,0,0,0,0,1
 TYRION,0,0,1,0,0,0,0,0,0,1
 TYWIN,0,0,1,0,0,0,0,0,1,0
 VARYS,0,0,0,0,0,0,1,0,0,0

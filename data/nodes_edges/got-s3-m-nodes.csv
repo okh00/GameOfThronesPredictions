@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-CHARACTERS ID,Baratheon,Greyjoy ,Lannister ,Stark ,Freefolk,Targaryen,Other,"King (0, 1)","Death (0,1)","War (-1,0,1)"
-=======
 CHARACTERS ID,Baratheon,Greyjoy ,Lannister ,Stark ,Freefolk,Targaryen,Other,King,Death,War
->>>>>>> 6facebc0213ec8c051384d64434c12d7fcfaa971
 ARYA,0,0,0,1,0,0,0,0,0,0
 BRAN,0,0,0,1,0,0,0,0,0,1
 BRIENNE,0,0,0,0,0,0,1,0,0,0
@@ -11,19 +7,11 @@ CATELYN,0,0,0,1,0,0,0,0,1,0
 CERSEI,0,0,1,0,0,0,0,0,0,0
 DAENERYS,0,0,0,0,0,1,0,0,0,0
 DAVOS,0,0,0,0,0,0,1,0,0,0
-<<<<<<< HEAD
-DROGO,0,0,0,0,0,0,1,0,0,0
-ELLARIA,0,0,0,0,0,0,1,0,0,0
-GENDRY,1,0,0,0,0,0,0,0,0,0
-GILLY,0,0,0,0,1,0,0,0,0,0
-GREY_WORM,0,0,0,0,1,0,0,0,1,0
-=======
 DROGO,0,0,0,0,0,0,1,0,1,0
 ELLARIA,0,0,0,0,0,0,1,0,0,0
 GENDRY,1,0,0,0,0,0,0,0,0,0
 GILLY,0,0,0,0,1,0,0,0,0,0
 GREY_WORM,0,0,0,0,1,0,0,0,0,0
->>>>>>> 6facebc0213ec8c051384d64434c12d7fcfaa971
 JAIME,0,0,1,0,0,0,0,0,0,0
 JEOR,0,0,0,0,0,0,1,0,1,0
 JOFFREY,1,0,0,0,0,0,0,0,0,0
@@ -33,20 +21,12 @@ MARGAERY,0,0,0,0,0,0,1,0,0,0
 MARTYN,0,0,1,0,0,0,0,0,1,0
 MELISANDRE,0,0,0,0,0,0,1,0,0,0
 MISSANDEI,0,0,0,0,0,0,1,0,0,0
-<<<<<<< HEAD
-NED,0,0,0,1,0,0,0,0,0,0
-=======
 NED,0,0,0,1,0,0,0,0,1,0
->>>>>>> 6facebc0213ec8c051384d64434c12d7fcfaa971
 NIGHT_KING,0,0,0,0,0,0,1,0,0,0
 PETYR,0,0,0,0,0,0,1,0,0,0
 RAMSAY,0,0,0,0,0,0,1,0,0,0
 ROBB,0,0,0,1,0,0,0,0,1,0
-<<<<<<< HEAD
-ROBERT,1,0,0,0,0,0,0,0,0,0
-=======
 ROBERT,1,0,0,0,0,0,0,0,1,0
->>>>>>> 6facebc0213ec8c051384d64434c12d7fcfaa971
 SAMWELL,0,0,0,0,0,0,1,0,0,0
 SANDOR,0,0,0,0,0,0,1,0,0,0
 SANSA,0,0,0,1,0,0,0,0,0,0
@@ -58,12 +38,6 @@ TORMUND,0,0,0,0,1,0,0,0,0,0
 TYRION,0,0,1,0,0,0,0,0,0,0
 TYWIN,0,0,1,0,0,0,0,0,0,0
 VARYS,0,0,0,0,0,0,1,0,0,0
-<<<<<<< HEAD
-VISERYS,0,0,0,0,0,1,0,0,0,0
-WHITE_WALKER,0,0,0,0,0,0,1,0,1,0
-YGRITTE,0,0,0,0,1,0,0,0,0,0
-=======
 VISERYS,0,0,0,0,0,1,0,0,1,0
 WHITE_WALKER,0,0,0,0,0,0,1,0,0,0
 YGRITTE,0,0,0,0,1,0,0,0,0,0
->>>>>>> 6facebc0213ec8c051384d64434c12d7fcfaa971
